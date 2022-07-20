@@ -8,7 +8,8 @@ https://layer0-docs-layer0-next-example-default.layer0.link/
 [![Deploy with Layer0](https://docs.layer0.co/button.svg)](https://app.layer0.co/deploy?repo=https://github.com/layer0-docs/layer0-nextjs-example)
 
 ## Getting Started
-
+ ~ cloning this repo is not recommended. 
+    . creating a branch and editing to root is the best case scenario, if you are providing weekly maintenance and fixes.
 ### Clone This Repo
 
 Use `git clone https://github.com/layer0-docs/layer0-nextjs-example.git` to get the files within this repository onto your local machine.
